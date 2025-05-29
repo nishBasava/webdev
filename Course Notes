@@ -1,0 +1,23 @@
+1.5 How Does the Internet Actually Work?
+The Internet is clients connected to servers with wires where clients get info about each web page from servers (example is DNS servers)
+
+1.6 How Do Websites Actually Work?
+Receive the different types of files: HTML, CSS, JS
+HTML = content, CSS = styling, JS = functionality
+
+1.7 How to get the Most Out of the Course:
+Watch 10 minutes of the videos, then write the code myself
+
+DAY 2:
+2.11: What is HTML?
+HyperText Markup Language
+
+2.13: HTML Heading Elements
+<h1>Hello World</h> = Element
+<h1> = Opening Tag
+</h> = Closing Tag
+
+Maximum headings is 6
+<h1>Heading 1</h1>
+...
+<h6>Heading 6</h6>
