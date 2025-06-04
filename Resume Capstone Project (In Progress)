@@ -1,0 +1,35 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+ </head>
+ <body>
+    
+<h1>Nishanth Basava</h1>
+
+
+<hr/>
+
+<h2>Education</h2>
+<ul>
+    <li>High School Diploma, Magna Cum Laude, McCallie School (2021 - 2025)</li>
+    <li><i>In Progress:</i> B.A. in Economics and Computer Science, Vanderbilt University (2025 - 2029)</li>
+    <ul>
+        <li>Chancellor's Scholar, Full-Tuition Merit Scholarship Recipient</li>
+    </ul>
+</ul>
+
+<hr/>
+
+<h2>Work Experience</h2>
+
+<ul>
+    <li><h3>Pharmacy Technician at CVS Health</h3></li>
+    
+</ul>
+
+
+ </body>
+ </html>
