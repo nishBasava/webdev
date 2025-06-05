@@ -8,8 +8,9 @@ HTML = content, CSS = styling, JS = functionality
 1.7 How to get the Most Out of the Course:
 Watch 10 minutes of the videos, then write the code myself
 
-DAY 2:
-2.11: What is HTML?
+DAY 2
+
+2.11: What is HTML? 
 HyperText Markup Language
 
 2.13: HTML Heading Elements
@@ -21,3 +22,24 @@ Maximum headings is 6
 <h1>Heading 1</h1>
 ...
 <h6>Heading 6</h6>
+
+
+DAY 5:
+5.33 How to add CSS
+Inline:
+<html style = "background:blue"></html>
+
+Internal:
+<html>
+  <head>
+    <style>
+      html{
+        background:red;
+      }
+    </style>
+  </head>
+</html>
+
+External:
+
+
